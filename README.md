@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">I'm currently studying Computer Science at <a href="https://www.isec.pt/PT/estudar/licenciaturas/EngInfor/" target="_blank">ISEC</a></h3>
 
+<br>
+
 
 <h3 align="left">These are currently my preferred languages and tools, but I'l certainly keep on learning:</h3>
 
