@@ -26,5 +26,5 @@
 
 </br></br>
 <div align="center">
-  📫 Reach me through: <b>gugapocao@gmail.com</b>
+  📫 Reach me at: <b>gugapocao@gmail.com</b>
 </div>
