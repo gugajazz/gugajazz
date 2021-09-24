@@ -26,5 +26,5 @@
 
 </br></br>
 <div align="center">
-  📫 How to reach me: **gugapocao@gmail.com**
+  📫 How to reach me: <b>gugapocao@gmail.com</b>
 </div>
