@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">Currently studying Computer Science at <a href="https://www.isec.pt/PT/estudar/licenciaturas/EngInfor/" target="_blank">ISEC</a></h3>
+<h3 align="center">I'm currently studying Computer Science at <a href="https://www.isec.pt/PT/estudar/licenciaturas/EngInfor/" target="_blank">ISEC</a></h3>
 
 
 <h3 align="left">My perfered languages and tools are:</h3>
@@ -13,4 +13,5 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<h3 align="center">Feel free to explore my reposiories and hopefully find something to inspire you in some way.</h3>
 
