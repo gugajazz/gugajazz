@@ -3,7 +3,7 @@
 
 <br>
 
-<h3 align="center">These are currently my preferred languages and tools, but I'l certainly keep on learning:</h3>
+<h3 align="center">Right now these are my preferred languages and tools, but I'l certainly keep on learning:</h3>
 
 <div align="center">
   <span>
