@@ -13,5 +13,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<br>
+
 <h3 align="center">Feel free to explore my repositories and hopefully find something to inspire you in some way.</h3>
 
