@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gustavo Poção</h1>
-<h3 align="center">boilerplate</h3>
+<h1 align="center">Hi 👋, I'm Gustavo</h1>
+<h3 align="center">Currently studying Computer Science at <a href="https://www.isec.pt/PT/estudar/licenciaturas/EngInfor/">ISEC</a></h3>
 
 
 <h3 align="left">My perfered languages and tools:</h3>
@@ -12,7 +12,3 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=gugajazz&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gugajazz&langs_count=5&theme=tokyonight)]()
