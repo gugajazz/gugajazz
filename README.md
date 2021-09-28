@@ -32,5 +32,5 @@
 
 </br></br>
 <div align="center">
-  (https://visitor-badge.laobi.icu/badge?page_id=gugajazz.gugajazz)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gugajazz.gugajazz"/>
 </div>
