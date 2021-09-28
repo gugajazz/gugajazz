@@ -28,3 +28,9 @@
 <div align="center">
   📫 Reach me at: <b>gugapocao@gmail.com</b>
 </div>
+
+
+</br></br>
+<div align="center">
+  (https://visitor-badge.laobi.icu/badge?page_id=gugajazz.gugajazz)
+</div>
