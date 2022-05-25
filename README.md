@@ -15,6 +15,9 @@
    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/> &nbsp;&nbsp;
    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> &nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> &nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-c++-3670A0?style=for-the-badge&logo=-c++-&logoColor=ffdd54"/> &nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54"/> &nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/matlab-ed843c?style=for-the-badge&logo=matlab&logoColor=ed843c"/> &nbsp;&nbsp;
   </span>
  </div>
  
